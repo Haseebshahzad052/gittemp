@@ -1,4 +1,5 @@
 This line is written in main Branch
 This line is also written in main Branch
 
-This kine creates feature2
+This line creates feature2
+This line also creates feature2
